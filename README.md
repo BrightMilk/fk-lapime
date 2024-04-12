@@ -1,2 +1,2 @@
-# fk-lapime
+# fk-laptime
 Formula Kart Lap Timer
